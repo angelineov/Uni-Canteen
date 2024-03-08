@@ -10,7 +10,7 @@ Additional features in the program:
 
 ■ Inform users about menu items that contain allergens (GUI)
 
-### Graphical User Interface of Uni-Canteen:
+#### Graphical User Interface of Uni-Canteen
 
 #### ![Uni-Canteen UI.png](https://github.com/angelineov/Uni-Canteen/blob/master/Uni-Canteen%20UI.png)
 
