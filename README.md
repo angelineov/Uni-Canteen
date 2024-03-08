@@ -1,8 +1,6 @@
 # Uni-Canteen
 
-Uni- Canteen is a scala application that gathers the daily menus of student restaurants in Otaniemi
-and displays them in a centralized manner (cf. Kanttiinit / ruokalistat.net). The work will include
-5 restaurants (A-bloc, Alvari, Studio Kipsari, Täffä, and Väre).
+Uni-Canteen is a scala application that gathers the daily menus of student restaurants in Otaniemi and displays them in a centralized manner (cf. Kanttiinit / ruokalistat.net). The work will include 5 restaurants (A-bloc, Alvari, Studio Kipsari, Täffä, and Väre).
 
 Additional features in the program:
 
