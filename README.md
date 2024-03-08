@@ -14,4 +14,4 @@ Additional features in the program:
 
 #### Read more here [Project_report](https://github.com/angelineov/Uni-Canteen/blob/master/Project%20Document%20-%20Angeline%20Jayanegara.pdf)
 
-#### ![Uni-Canteen UI.png](https://github.com/angelineov/Uni-Canteen/blob/master/Uni-Canteen%20UI.png)https://github.com/angelineov/Uni-Canteen/blob/master/Uni-Canteen%20UI.png)
+#### ![Uni-Canteen UI.png](https://github.com/angelineov/Uni-Canteen/blob/master/Uni-Canteen%20UI.png)
